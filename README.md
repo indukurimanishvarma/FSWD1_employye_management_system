@@ -26,7 +26,7 @@ http://127.0.0.1:8000/register
 This project is for employee management.Employee can register himself and employee can assign a salary for employee...
 
 ## Clone the repo
-git clone [https://github.com/GaneshKhadka/Employee-management-system-in-laravel.git](https://github.com/indukurimanishvarma/FSWD1_employye_management_system)
+git clone [https://github.com/indukurimanishvarma/FSWD1_employye_management_system]
 
 ## Composer install
 cd Employee-management-system-in-laravel
